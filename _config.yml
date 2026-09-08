@@ -5,18 +5,20 @@ image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: ""
 
+
 # UI configs
-title: "空響摄影"
+title: "Celoty's films"
 subtitle: ""
 author: "空響"
 header:
- title: "空響摄影"
+ title: "Celoty's films"
  subtitle: ""
 footer:
  name: "你好，我是空響"
  bio: ""
  github: ""
 web_design: "AJ"
+
 
 social_urls:
   twitter: ""
@@ -25,6 +27,8 @@ social_urls:
   linkedin: ""
   github: ""
 
+
 # Configure which exif data to display
 # Tag is the actual exif tag, icon is a fontawesome icon. Use JSON notation without line breaks
 exif: '[{"tag": "Model", "icon": "fa fa-camera-retro"}, {"tag": "FNumber", "icon": "far fa-dot-circle"}, {"tag": "ExposureTime", "icon": "far fa-clock"}, {"tag": "ISOSpeedRatings", "icon": "fa fa-info-circle"}]'
+
